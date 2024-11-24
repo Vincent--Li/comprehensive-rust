@@ -11,9 +11,17 @@ name = "elevator_event"
 version = "0.1.0"
 
 [[package]]
+name = "generic_data_types"
+version = "0.1.0"
+
+[[package]]
 name = "helloworld"
 version = "0.1.0"
 
 [[package]]
 name = "shared_reference"
+version = "0.1.0"
+
+[[package]]
+name = "trait_bound"
 version = "0.1.0"

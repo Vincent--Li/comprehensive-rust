@@ -5,8 +5,8 @@ edition = "2021"
 
 [workspace]
 
-members = [ "elevator_event",
-    "helloworld", "shared_reference",
+members = [ "elevator_event", "generic_data_types",
+    "helloworld", "shared_reference", "trait_bound",
 ]
 
 [dependencies]
